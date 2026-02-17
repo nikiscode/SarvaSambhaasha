@@ -1,4 +1,3 @@
-//readme file
 SarvaSambhaasha
 AI-Based Multilingual Real-Time Translation System for Indian Languages
 
