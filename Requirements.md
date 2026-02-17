@@ -1,25 +1,18 @@
 ## REQUIREMENTS DOCUMENT
-
 SarvaSambhaasha – Software Requirements Specification (SRS)
 1. Functional Requirements
 FR1 – Text Translation
 The system shall translate text from one supported Indian language to another in real time.
-
 FR2 – Voice-to-Text
 The system shall convert spoken input into textual format using ASR.
-
 FR3 – Voice-to-Voice Translation
 The system shall support bidirectional voice conversation between two languages.
-
 FR4 – Automatic Language Detection
 The system shall automatically detect input language without manual selection.
-
 FR5 – Text-to-Speech Output
 The system shall generate natural speech output in the selected target language.
-
 FR6 – Offline Mode
 The system shall provide offline translation for predefined phrases.
-
 FR7 – Model Updates
 The system shall support remote AI model updates via secure API.
 
